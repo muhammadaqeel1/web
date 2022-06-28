@@ -3,9 +3,32 @@
         <title>My Computer</title>
     </head>
    
-    <body>
-        <h1>My Heading</h1>
-        <p>First Program</p>
-        <a href>https://www.google.com/</href></a>
+    <body bgcolor="cyan" text="red" background="https://images.unsplash.com/photo-1656377874827-ff14715521c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80"> 
+        
+        <h1><marquee scrolldelay="-20">My Heading</marquee></h1>
+        <p><center> <b>First &nbsp;&nbsp; Program &COPY; &reg; &gt; &lt; &trade;</b></center></p>
+        <a href="https://www.google.com/">google</a>
+       <hr color="red" size="4" width="20%"></hr>
+       <ul>
+       <li>isb</li>
+        <li>rwp</li>
+        <li>lah</li>
+       
+    </ul>
+    <ol>
+        <li>isb</li>
+         <li>rwp</li>
+         <li>lah</li>
+        
+    </ol>
+    <dl>
+    <dt>islamabad</dt>
+    <dd>Capital</dd>
+    
+     <dt>Lahore</dt>
+    <dd>Badshahi Mosque</dd>
+    
+    </dl>
+    
     </body>
 </html>
