@@ -2,15 +2,32 @@
 <head>
     <title>"web design"</title>
 </head>
-<body background="https://images.unsplash.com/photo-1656427502140-84640f4134cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80">
+<body background="https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80">
     <h1 style="background-color:DodgerBlue;"><center>Hello World</center></h1>
+    
+    <img src="https://images.unsplash.com/photo-1656173460244-faad38c026e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" height="300" width="500" border="10">&nbsp;&nbsp;<img src="https://images.unsplash.com/photo-1655853459092-a7bae19f9806?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80" height="300" width="500" border="10">&nbsp;&nbsp;<img src="https://images.unsplash.com/photo-1656025664223-4a471c64e608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" height="300" width="500" border="10">
     <center>
         <video width="500" height="300" autoplay muted>
             <source src="https://dsqqu7oxq6o1v.cloudfront.net/preview-1009410-UXYu2ngJeP-high.mp4" type="video/mp4">
         </video>
     </center>
-    <img src="https://images.unsplash.com/photo-1656173460244-faad38c026e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" height="300" width="500" border="10">&nbsp;&nbsp;<img src="https://images.unsplash.com/photo-1655853459092-a7bae19f9806?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80" height="300" width="500" border="10">&nbsp;&nbsp;<img src="https://images.unsplash.com/photo-1656025664223-4a471c64e608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" height="300" width="500" border="10">
+    <form>
+    <label>Country name:</label><br>
+    <input type="text" ><br>
+    <label>City name:</label><br>
+    <input type="text">
+    <input type="submit" value="Submit">
+ </form>
     
-    
+    <form>
+        <input type="radio" name="a"><label>Turkey</label><br>
+        <input type="radio" name="a"><label>Germany</label><br>
+        <input type="radio" name="a"><label>Paris</label>
+      </form>
+      <form>
+        <input type="checkbox"><label>Turkey</label><br>
+        <input type="checkbox"><label>Germany</label><br>
+        <input type="checkbox"><label>Paris</label>
+      </form>
     </body>
 </html>
