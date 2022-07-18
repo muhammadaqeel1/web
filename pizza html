@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="one.css">
+
+<head>
+  <title>Pizza webiste</title>
+  <style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+
+    li {
+      float: left;
+    }
+
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: #111;
+    }
+  </style>
+</head>
+
+<body class="body">
+  <div class="home">
+    <div class="MENU">
+      <ul>
+        <li><a class="active" href="#home">Home</a></li>
+        <li><a href="#menu">Menu</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+      <h1 class="thin">THIN <br> CRUST PIZZA
+      </h1>
+      <button class="LET">LET ME SEE THE MENU</button><br><br><br><br><br><br>
+      <button class="OPEN">OPEN FROM 10AM TO 12PM</button>
+    </div>
+  </div>
+
+
+  <div class="About">
+    <h1>About</h1><br>
+    <p class="p">PIZZA CRUST </p>
+  </div>
+
+</body>
+
+</html>
