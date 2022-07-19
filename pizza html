@@ -49,8 +49,78 @@
 
   <div class="About">
     <h1>About</h1><br>
-    <p class="p">PIZZA CRUST </p>
+    <p class="p">The Pizza Restaurant was founded in blabla by Mr. Italiano in lorem ipsum dolor sit amet,<br>
+      consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+     </p>
+     <h1 class="p">THE CHEF?</h1>
+     <p class="p">Mr. Italiano himself</p>
+     <p class="p">We are proud of our interiors.</p>
+     <h1 class="p">Opening Hours</h1>
+     <p class="p">Mon & Tue CLOSED</p> <p>Wednesday 10.00 - 24.00</p>
+     <p class="p">Thursday 10:00 - 24:00</p> <p>Friday 10:00 - 12:00</p>
+     <p class="p">Saturday 10:00 - 23:00</p><p>Sunday Closed</p>
+    
   </div>
+<div class="contact">
+  <h1>CONTACT</h1>
+  <p class="p"> Find us at some address at some place or call us at 05050515-122330</p>
+  <p class="p"> FYI! We offer full-service catering for any event, large or small.<br>
+     We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste.</p>
+     <h1>Reserve a table, ask for today's special or just send us a message:</h1>
+ 
+  <form class="form">   
+    <input type="Name" placeholder="Name" style="width:1000px;height: 50px;"></lebel><br><br>
+    <input type="How many people" placeholder="How many people"style="width:1000px;height: 50px;"></label><br><br>
+    <input type="Message" placeholder="Message"style="width:1000px;height: 50px;"></lebel><br><br>
+<button>SEND MESSAGE</button>
+
+  </form>
+
+</div>
+
+<div class="menu">
+  <h1>The Menu</h1>
+  <nav>
+      
+    <a href="">Pizza</a>
+    <a href="">Salad</a>
+    <a href="">Starter</a>
+      
+  </nav>
+  <fieldset>
+  <h2>Marghreta</h2>
+  <p>Fresh tomatoes, fresh mozzarella, fresh basil</p>
+  <h4>$12.50</h4>
+  </fieldset>
+  <fieldset>
+      <h2>Formagio</h2>
+      <p>Fresh tomatoes, fresh mozzarella, fresh basil</p>
+      <h4>&amp;15.7</h4>
+      </fieldset>
+      <fieldset>
+    <h2>Chicken</h2>
+    <p>Fresh tomatoes, fresh mozzarella, fresh basil</p>
+    <h4>$17.6</h4>
+    </fieldset>
+    <fieldset>
+    <h2>PineApple</h2>
+    <p>Fresh tomatoes, fresh mozzarella, fresh basil</p>
+<h4>$14.9</h4>
+</fieldset>
+<fieldset>
+<h2>Meat Town</h2>
+<p>Fresh tomatoes, fresh mozzarella, fresh basil</p>
+<h4>$5.6</h4>
+</fieldset>
+<fieldset>
+     <h2>Parma</h2>
+     <p>Fresh tomatoes, fresh mozzarella, fresh basil</p>
+<h4>$11.5</h4>
+  </fieldset>
+  <fieldset>
+                         
+  </fieldset></div>
 
 </body>
 
