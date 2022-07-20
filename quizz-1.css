@@ -1,0 +1,25 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    border-radius: 60%;
+    margin-left: 42%;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+  }
+ 
+  img:hover {
+    transform: scale(1.5); 
+  }
+ 
+  .name{
+    text-align: center;
+  }
+.p{
+    padding-left: 20%;
+}
